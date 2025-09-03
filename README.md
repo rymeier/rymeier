@@ -10,7 +10,7 @@ Hi, I'm Ryan! I'm a highly technical leader, full stack engineer, and passionate
 ---
 
 ## 🌱 What I'm Working On
-- Building applications with the help a agentic code generation. Learning the best ways to prompt and include in my code gen in my development lifecycle enabling me to ship code faster, well tested, and more secure.
+- Building applications with the help of agentic code generation. Learning the best ways to prompt and include in my code gen in my development lifecycle enabling me to ship code faster, well tested, and more secure.
 
 ---
 
