@@ -5,8 +5,6 @@
 ## 👋 About Me
 Hi, I'm Ryan! I'm a highly technical leader, full stack engineer, and passionate problem solver. I thrive on building healthy teams, mentoring others, and creating scalable, secure solutions. My tech-agnostic approach means I always look for the best tool and strategy for the job, and I love collaborating with people from all backgrounds.
 
-> _Placeholder: Add a personal story, favorite quote, or a fun fact about yourself here._
-
 ---
 
 ## 🌱 What I'm Working On
